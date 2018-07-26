@@ -1,1 +1,1 @@
-An example in my [[http://darksalt.me/posts/2018/07/a-simple-websocket-echo-server.html][blog]], nothing more.
+An example about scratching a websocket server in my [[http://darksalt.me/posts/2018/07/a-simple-websocket-echo-server.html][blog]], nothing more.
